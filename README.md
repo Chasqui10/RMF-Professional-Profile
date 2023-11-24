@@ -40,6 +40,6 @@ N/A
 N/A
 
 ## Tests
-Here is the live link to Pages: [RMF-Professional-Profile | Bootcamp-Challenge-2 ]()
+Here is the live link to Pages: [RMF-Professional-Profile | Bootcamp-Challenge-2 ](https://chasqui10.github.io/RMF-Professional-Profile/)
 
 Here is an image of the live Page for the challenge: ![Image of the Webpage]()
